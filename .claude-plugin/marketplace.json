@@ -1,0 +1,19 @@
+{
+  "name": "product-catalogue-marketplace",
+  "description": "Internal plugins for the product catalogue engineering team",
+  "owner": {
+    "name": "Ashok S",
+    "email": "ashok.s@koenig-solution.com"
+  },
+  "plugins": [
+    {
+      "name": "product-manager-plugin",
+      "description": "Natural-language tools for the Product Management API",
+      "source": {
+        "source": "github",
+        "repo": "ashok-koenig/product-manager-plugin",
+        "ref": "master"
+      }
+    }
+  ]
+}
