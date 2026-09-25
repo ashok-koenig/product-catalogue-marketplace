@@ -11,7 +11,7 @@
       "description": "Natural-language tools for the Product Management API",
       "source": {
         "source": "github",
-        "repo": "ashok-koenig/product-manager-plugin",
+        "repo": "https://github.com/ashok-koenig/product-manager-plugin",
         "ref": "master"
       }
     }
